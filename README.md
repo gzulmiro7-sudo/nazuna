@@ -1,6 +1,6 @@
 # 🤖 menorzinho Bot: Seu Assistente Completo para WhatsApp
 
-![nazuna Bot Banner](https://raw.githubusercontent.com/hiudyy/menorzinho
+![menorzinho Bot Banner](https://raw.githubusercontent.com/hiudyy/menorzinho
 /main/dados/midias/menu.jpg)
 
 Bem-vindo ao repositório oficial do **nazuna Bot**! Este projeto é um bot avançado e multifuncional para WhatsApp, desenvolvido com a robustez do **Node.js** e a flexibilidade da biblioteca **WaLib**. Criado para otimizar sua comunicação e gestão de grupos, o nazuna Bot oferece uma vasta gama de comandos, desde funcionalidades administrativas essenciais até opções de entretenimento interativas. É a solução perfeita tanto para desenvolvedores iniciantes que buscam uma ferramenta fácil de usar quanto para usuários avançados que desejam uma plataforma altamente personalizável.
@@ -36,9 +36,9 @@ Acompanhe o progresso e a vitalidade do nazuna Bot através de métricas em temp
 
 | Ícone | Badge | Descrição Detalhada |
 |-------|-------|---------------------|
-| 🕒 | ![Última Atualização](https://img.shields.io/github/last-commit/hiudyy/nazuna?color=blue&style=flat-square) | **Última Atualização**: Indica a data do último commit realizado no repositório, mostrando a atividade recente de desenvolvimento. |
-| ⭐ | ![Estrelas](https://img.shields.io/github/stars/hiudyy/nazuna?color=yellow&label=Favoritos&style=flat-square) | **Favoritos (Estrelas)**: Representa o número de estrelas concedidas ao projeto no GitHub, um indicador direto da popularidade e do apreço da comunidade. |
-| 🍴 | ![Forks](https://img.shields.io/github/forks/hiudyy/nazuna?color=green&style=flat-square) | **Forks**: Contagem de cópias do projeto (forks) criadas por outros desenvolvedores, evidenciando o interesse em colaborar ou adaptar o bot. |
+| 🕒 | ![Última Atualização](https://img.shields.io/github/last-commit/hiudyy/nazmenkrzinho color=blue&style=flat-square) | **Última Atualização**: Indica a data do último commit realizado no repositório, mostrando a atividade recente de desenvolvimento. |
+| ⭐ | ![Estrelas](https://img.shields.io/github/stars/hiudyy/menorzinho color=yellow&label=Favoritos&style=flat-square) | **Favoritos (Estrelas)**: Representa o número de estrelas concedidas ao projeto no GitHub, um indicador direto da popularidade e do apreço da comunidade. |
+| 🍴 | ![Forks](https://img.shields.io/github/forks/hiudyy/nacolor=green&style=flat-square) | **Forks**: Contagem de cópias do projeto (forks) criadas por outros desenvolvedores, evidenciando o interesse em colaborar ou adaptar o bot. |
 | 🐞 | ![Issues](https://img.shields.io/github/issues/hiudyy/nazuna?color=red&style=flat-square) | **Issues**: Número de problemas reportados, sugestões de melhoria ou dúvidas levantadas pela comunidade, essenciais para o aprimoramento do bot. |
 | 📝 | ![Commits](https://img.shields.io/github/commit-activity/m/hiudyy/nazuna?color=purple&style=flat-square) | **Commits**: Frequência de atualizações no código-fonte, refletindo a intensidade do trabalho de desenvolvimento e manutenção. |
 | 💾 | ![Tamanho do Repo](https://img.shields.io/github/repo-size/hiudyy/nazuna?color=orange&style=flat-square) | **Tamanho do Repositório**: O espaço total ocupado pelo projeto no GitHub, incluindo todos os arquivos e histórico de versões. |
@@ -81,8 +81,8 @@ Navegue facilmente por todas as seções deste README para encontrar as informa�
 2. [📋 Pré-requisitos Essenciais](#-pré-requisitos-essenciais)
 3. [📥 Instalação do nazuna Bot](#-instalação-do-nazuna-bot)
 4. [🚀 Rodando o Bot pela Primeira Vez](#-rodando-o-bot-pela-primeira-vez)
-5. [🔌 Conectando o Bot ao WhatsApp](#-conectando-o-bot-ao-whatsapp)
-6. [🔄 Atualizando o nazuna Bot](#-atualizando-o-nazuna-bot)
+5. [🔌 Conectando o Bot ao WhatsApp](#-conectando-o-bot-ao-whatsapp857630132)
+6. [🔄 Atualizando o nazuna Bot](#-atualizando-o-menorzinho-bot)
 7. [💻 Tutoriais de Instalação por Plataforma](#-tutoriais-de-instalação-por-plataforma)
    - [🖥️ Windows: Guia Completo](#-windows-guia-completo)
    - [🐧 Linux: Instalação e Configuração](#-linux-instalação-e-configuração)
@@ -109,7 +109,7 @@ Para aqueles que já têm alguma familiaridade ou já possuem os pré-requisitos
 1. **Prepare o Ambiente**: Certifique-se de ter o Node.js (versão 18 ou superior) e o Git instalados em seu sistema. Consulte a seção [Pré-requisitos Essenciais](#-pré-requisitos-essenciais) para mais detalhes.
 2. **Baixe o Bot**: Clone o repositório oficial do nazuna Bot do GitHub para o seu ambiente de trabalho.
 3. **Conecte ao WhatsApp**: Utilize um número de telefone secundário e exclusivo para o bot. Esta é uma medida de segurança crucial para proteger sua conta principal de possíveis bloqueios ou banimentos pelo WhatsApp.
-4. **Explore os Comandos**: Após a conexão bem-sucedida, envie `/menu` para o bot no WhatsApp para descobrir todas as funcionalidades e comandos disponíveis.
+4. **Explore os Comandos**: Após a conexão bem-sucedida, envie +meni para o bot no WhatsApp para descobrir todas as funcionalidades e comandos disponíveis.
 
 > 💡 **Dica para Iniciantes**: Não se sinta sobrecarregado se os termos parecerem complexos. Cada seção deste documento foi cuidadosamente elaborada para fornecer instruções claras e passo a passo, tornando o processo acessível a todos.
 </details>
@@ -147,7 +147,7 @@ Siga este guia passo a passo para instalar o nazuna Bot em seu sistema. Certifiq
 1. **Clonar o Repositório do GitHub**  
    Abra o terminal de sua preferência (Prompt de Comando no Windows, PowerShell, Terminal no Linux/macOS ou Termux no Android) e execute os seguintes comandos. Estes comandos baixarão todo o código-fonte do nazuna Bot para o seu computador e o levarão para o diretório do projeto:
    ```bash
-   git clone https://github.com/hiudyy/nazuna.git
+   git clone https://github.com/hiudyy/menorzinho it
    cd nazuna
    ```
    - **Explicação**:  
@@ -212,7 +212,7 @@ Este é o método mais comum e direto para conectar seu bot:
 
 Este método é útil se você não consegue escanear o QR code diretamente (por exemplo, se estiver rodando o bot em um servidor remoto sem interface gráfica):
 
-- **Passo 1: Iniciar o Processo**: Ao executar `npm start`, o bot solicitará que você digite o número de telefone do bot (incluindo o código do país, ex: `+5511999999999`).
+- **Passo 1: Iniciar o Processo**: Ao executar `npm start`, o bot solicitará que você digite o número de telefone do bot (incluindo o código do país, ex: 857630132`).
 - **Passo 2: Obter o Código**: Após digitar o número, o terminal fornecerá um código de pareamento alfanumérico (ex: `1234-5678`).
 - **Passo 3: Inserir o Código no WhatsApp**: No seu smartphone, abra o aplicativo WhatsApp e siga estes passos:
   1. Vá em **Configurações** (ou **Ajustes** no iOS).
@@ -434,7 +434,10 @@ Este tutorial abrangente detalha a instalação do nazuna Bot no Termux, desde o
 > 💡 **Dica Crucial para Termux**: Se você encontrar o erro "Permissão negada" em qualquer etapa, é quase certo que as permissões de armazenamento não foram concedidas corretamente. Execute `termux-setup-storage` novamente e certifique-se de aceitar a permissão na caixa de diálogo do sistema.
 </details>
 
-### ☁️ Pterodactyl: Configuração em Servidores
+### ☁️ Pterodactyl: Configuração em Servidores menorzinho 
+alugar 
+Dono menorzinho 
+conectar  no WhatsApp 
 
 <details>
 <summary><strong>☁️ Tutorial para servidores Pterodactyl</strong></summary>
@@ -696,14 +699,18 @@ nazuna/
 │   ├── src/                  # Código fonte principal
 │   │   ├── funcs/            # Funções do bot
 │   │   │   ├── downloads/    # Comandos de download
-│   │   │   ├── json/         # Dados JSON
+│   │   │   ├── json/         # Dados menorzinho 
 │   │   │   ├── private/      # Funções privadas
-│   │   │   └── utils/        # Utilitários
-│   │   ├── menus/            # Menus do bot
+│   │   │   └── utils/        # Utilitários menorzinho 🎋
+│   │   ├── menus/            # Menus do bot menorzinho #
 │   │   └── utils/            # Utilitários gerais
 │   └── midias/               # Mídia (imagens, etc.)
 ├── package.json              # Dependências e scripts
-└── README.md                 # Esta documentação
+└── README.md                 # Esta documentação e feito por menorzinho
+conectar 857630132
+grupos cinceros
+
+
 ```
 
 ### Melhorias na Estrutura dos Tutoriais
@@ -737,3 +744,7 @@ Para tornar os tutoriais ainda mais completos e profissionais, recomendamos as s
 - Integração com serviços de monitoramento
 - Backup e recuperação de dados
 </details>
+o fim de bot menorzinho 
+#bugar o grupo 😹
+travar antilinlk 
+@mencionar
